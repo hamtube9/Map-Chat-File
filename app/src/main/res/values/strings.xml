@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapKotlin</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="current_location">vị trí hiện tại</string>
+</resources>
